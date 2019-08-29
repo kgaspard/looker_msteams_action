@@ -1,4 +1,4 @@
-Credit goes to [@kirz182](https://github.com/kriz182)
+Credit goes to [@kriz182](https://github.com/kriz182)
 
 1) Get your MS Teams incoming webhook URL: https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/connectors/connectors-using#setting-up-a-custom-incoming-webhook
 
